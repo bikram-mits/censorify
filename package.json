@@ -1,0 +1,15 @@
+{
+  "name": "restrict_words",
+  "version": "0.0.1",
+  "description": "censors words out of text",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "author": "bikram basnet",
+  "license": "ISC"
+}
